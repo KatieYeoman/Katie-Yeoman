@@ -11,3 +11,5 @@ Heater 25-03 just one is an Aspen simulation of the heater in Node E. This file 
 Heater is the Aspen simulation that was used to obtain the economic costs for the heater in this node. The simulation contains 2 heaters, as was found to be optimal.
 
 Node E economics is a spreadsheet used to compile all the economic values obtained by hand, or from Aspen.
+
+Phase 2 cashflow contains the spreadsheet the group cashflow table was calculated using.
